@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to Philadelphia First Church of the Nazarene
-datePublished: '2016-05-14T21:25:12.208Z'
-dateModified: '2016-05-14T21:25:11.888Z'
+datePublished: '2016-05-14T21:34:00.855Z'
+dateModified: '2016-05-14T21:27:08.581Z'
 title: ''
 author: []
 authors: []
@@ -15,7 +15,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 sourcePath: _posts/2016-05-14-welcome-to-philadelphia-first-church-of-the-nazarene.md
 url: welcome-to-philadelphia-first-church-of-the-nazarene/index.html
 _type: Article
