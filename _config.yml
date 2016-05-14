@@ -1,0 +1,28 @@
+name: PhillyFirst.org
+favicon: null
+layout_spectrum: 0.6597634050995111
+typography_spectrum: 0.5014154992531985
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4921764796599746
+  lightness: 0.0034537985920906067
+  saturation: 0.3116258524823934
+  rhythmicContrast: 0.4192238624673337
+purpose: []
