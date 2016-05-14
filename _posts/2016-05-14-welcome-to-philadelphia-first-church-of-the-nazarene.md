@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to Philadelphia First Church of the Nazarene
-datePublished: '2016-05-14T21:13:28.167Z'
-dateModified: '2016-05-14T21:13:09.177Z'
+datePublished: '2016-05-14T21:25:12.208Z'
+dateModified: '2016-05-14T21:25:11.888Z'
 title: ''
 author: []
 authors: []
@@ -26,4 +26,7 @@ Welcome to Philadelphia First Church of the Nazarene
 We celebrate worship together every Sunday morning at 10:30
 
 But that's not all. We engage in a variety of ministries that can become an important part of your life in Christ.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2917600-9aae-4d30-aec9-ed6ed97d3eb7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aacb562d-6a00-43e7-84b2-99ab541101dc.jpg)
+
+Check out our great children's ministries. Children and youth gather each Wednesday evening at 6:30\. We eat, then we play, then we study God's Word and share life together.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d794d05a-4e17-42e5-8752-19d6221a50c0.png)
