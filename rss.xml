@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PhillyFirst.org]]></title>
+        <description><![CDATA[PhillyFirst.org]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 14 May 2016 21:13:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to Philadelphia First Church of the Nazarene</p>]]></description>
+            <link>undefinedwelcome-to-philadelphia-first-church-of-the-nazarene/index.html</link>
+            <guid isPermaLink="false">373058b5-7234-4038-a941-a260fe13e27d</guid>
+            <pubDate>Sat, 14 May 2016 21:13:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
