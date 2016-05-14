@@ -2,6 +2,7 @@ name: PhillyFirst.org
 favicon: null
 layout_spectrum: 0.6597634050995111
 typography_spectrum: 0.5014154992531985
+title: The first page
 cta:
   domain: null
   bucket: null
